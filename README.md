@@ -1,6 +1,6 @@
 # Projet PEI – Plateforme d’arrosage automatique et système d’alerte intelligent
 
-**Réalisation dans le cadre du module PEI (Projet Entreprise et Innovation) – École Supérieure Polytechnique, 2ᵉ année cycle ingénieur.**
+**Réalisation dans le cadre du module PEI (Projet Entreprise et Innovation) – École Supérieure Polytechnique, 1ᵉ année cycle ingénieur.**
 
 ---
 
